@@ -1,4 +1,4 @@
-```
+```groovy
 	allprojects {
 		repositories {
 			...
@@ -8,7 +8,7 @@
 ```
 
 
-```
+```groovy
 dependencies {
 	        implementation 'com.github.HaoShuo-App:haoshuo_bcprov:Tag'
 	}
